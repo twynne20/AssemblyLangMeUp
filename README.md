@@ -1,2 +1,2 @@
 # AssemblyLangMeUp
-Well here we go, nothing like debugging.
+Well here we go, nothing like debugging and playing around.
